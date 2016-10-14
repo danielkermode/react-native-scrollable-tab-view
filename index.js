@@ -81,6 +81,8 @@ const ScrollableTabView = React.createClass({
     if (Platform.OS === 'ios') {
       return (
         <ScrollView
+          keyboardDismissMode='on-drag'
+          keyboardShouldPersistTaps={true}
           horizontal
           pagingEnabled
           automaticallyAdjustContentInsets={false}
