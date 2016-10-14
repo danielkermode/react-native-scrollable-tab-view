@@ -1,6 +1,6 @@
 {
-  "name": "react-native-scrollable-tab-view",
-  "version": "0.3.8",
+  "name": "dank-react-native-scrollable-tab-view",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brentvatne/react-native-scrollable-tab-view.git"
+    "url": "git+https://github.com/danielkermode/react-native-scrollable-tab-view.git"
   },
   "keywords": [
     "react-native-component",
@@ -19,9 +19,5 @@
     "scrollable"
   ],
   "author": "Brent Vatne",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brentvatne/react-native-scrollable-tab-view/issues"
-  },
-  "homepage": "https://github.com/brentvatne/react-native-scrollable-tab-view#readme"
+  "license": "MIT"
 }
